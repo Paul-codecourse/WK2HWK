@@ -51,6 +51,12 @@ flex-direction: row;
 flex-wrap: nowrap;
 }
 
+.project-flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  }
+
 #about {
   height: 400px;
   color: blue;
@@ -60,6 +66,13 @@ flex-wrap: nowrap;
 #work {
   height: 400px;
   color: black;
+  padding: var(--padding);
+}
+
+#p1 {
+  background-color: black;
+  color: blue;
+  height: 40px;
   padding: var(--padding);
 }
 
