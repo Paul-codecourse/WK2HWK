@@ -33,6 +33,11 @@ h6 {
   padding: var(--padding);
 }
 
+nav {
+  display: flex;
+  align-content: end;
+}
+
 .page-wrapper img {
 border: 1px solid #ddd;
 border-radius: 4px;
@@ -72,8 +77,23 @@ flex-wrap: nowrap;
 #p1 {
   background-color: black;
   color: blue;
+  width: 80%;
+  margin: 20px;
+  justify-content: center;
+}
+#p2 {
+  background-color: black;
+  color: blue;
   height: 40px;
-  max-width: 150px;
+  width: 40%;
+  margin: 20px;
+  justify-content: space-around;
+}
+#p3 {
+  background-color: black;
+  color: blue;
+  height: 40px;
+  width: 40%;
   margin: 20px;
   justify-content: space-around;
 }
