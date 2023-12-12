@@ -76,14 +76,14 @@ flex-wrap: nowrap;
 
 #p1 {
   background-color: black;
-  color: blue;
+  color: white;
   width: 80%;
   margin: 20px;
   justify-content: center;
 }
 #p2 {
   background-color: black;
-  color: blue;
+  color: white;
   /*height: 40px;*/
   width: 40%;
   margin: 20px;
@@ -91,7 +91,7 @@ flex-wrap: nowrap;
 }
 #p3 {
   background-color: black;
-  color: blue;
+  color: white;
   /*height: 40px;*/
   width: 40%;
   margin: 20px;
