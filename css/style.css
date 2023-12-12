@@ -73,7 +73,9 @@ flex-wrap: nowrap;
   background-color: black;
   color: blue;
   height: 40px;
-  padding: var(--padding);
+  max-width: 150px;
+  margin: 20px;
+  justify-content: space-around;
 }
 
 #contact {
