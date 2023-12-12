@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-The contents of the repository will be the starting point for the development of a portfolio holding the work from the course.
+The contents of the repository will be the starting point for the development of a portfolio ultimately holding the best work from the course.
 
 ## Credits
 
