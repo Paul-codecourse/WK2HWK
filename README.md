@@ -1,7 +1,7 @@
 # WK2HWK Week 2 Homework Repository - Readme Webpage
 ## Description
 
-Here is where I will be working on and preparing the introductory portfolio as homework from the second week of the course.
+Here is where I will be working on and preparing the introductory portfolio as homework from the second week of the course. This will develop in the later weeks of the course.
 
 ## Installation
 
